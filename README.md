@@ -3,7 +3,10 @@
 Key-Value configuration from a yaml store
 
 # Install
-    > sudo gem install Yami
+
+### [Gemcutter](http://gemcutter.org/)
+
+    > sudo gem install yami
     
 # Usage
 
