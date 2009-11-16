@@ -30,4 +30,4 @@ Key-Value configuration from a yaml store
     
     # fin.
     
-    
+2009 doug tangren (softprops) 
